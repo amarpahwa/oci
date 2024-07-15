@@ -33,6 +33,19 @@ OIPA LiveLabs Technical Workflows
 * The user logs back to Live Labs, OIPA URL is created which they will use to launch the OIPA application.
 
 
+## Annuity Accelerators
+
+
+* Accumulation Phase - Indexed
+* Annuity Payout Options
+* Base Benefits & Riders
+* Death Claim Processing
+* Fees and Charges
+* Fund Alloation
+* New Business & Underwriting
+* Purchase and Contributions
+* Surrenders & Withdrawals
+* Tax & Treatment
 
 
 ## Technical Architecture
