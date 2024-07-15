@@ -32,19 +32,6 @@ OIPA LiveLabs Technical Workflows
 * Once the infrastructure has been created email is sent to the user indicating the workshop/infrastructure has been created.
 * The user logs back to Live Labs, OIPA URL is created which they will use to launch the OIPA application.
 
-## Annuity Accelerators
-
-
-* Accumulation Phase - Indexed
-* Annuity Payout Options
-* Base Benefits & Riders
-* Death Claim Processing
-* Fees and Charges
-* Fund Alloation
-* New Business & Underwriting
-* Purchase and Contributions
-* Surrenders & Withdrawals
-* Tax & Treatment
 
 
 
